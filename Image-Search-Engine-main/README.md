@@ -5,7 +5,7 @@
 ## Description 
 
 This is an image search engine web application. Users can search for images using keywords, and the app fetches results from the Unsplash API. Discover a variety of images related to your search queries.
-## Authors
+
 
 ## Demo
 
@@ -14,7 +14,7 @@ Live Demo:
 https://image-search-engine-today.netlify.app/ 
 ## Getting Started
 
-To use the NK Codes💛 Image Search Engine web application, follow these steps:
+Image Search Engine web application, follow these steps:
 
 1. Obtain an API Key from Unsplash: 
 
