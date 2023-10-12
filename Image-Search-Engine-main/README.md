@@ -1,21 +1,17 @@
 
 ## Title
-
-NK Codes💛 - Image search engine
+ Image search engine
 
 ## Description 
 
 This is an image search engine web application. Users can search for images using keywords, and the app fetches results from the Unsplash API. Discover a variety of images related to your search queries.
 ## Authors
 
-- [NK💛](https://www.github.com/nishap24) 
-
-
 ## Demo
 
 Live Demo:
 
- https://nishap24.github.io/NKCodes-Image-Search-Engine/  
+https://image-search-engine-today.netlify.app/ 
 ## Getting Started
 
 To use the NK Codes💛 Image Search Engine web application, follow these steps:
@@ -66,29 +62,6 @@ To use the NK Codes💛 Image Search Engine web application, follow these steps:
 
 - Responsive design with a clean and user-friendly interface.
 
-## Deployment Status 
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/458ff77d-39ad-4ef2-b87b-126d33f55e56/deploy-status)](https://app.netlify.com/sites/kanasu-image-search-engine/deploys)
-
 ## Contributing
 
-Contributions are always welcome!
 
-If you have any suggestions, improvements, or bug fixes, feel free to submit a pull request. Please ensure that your contributions align with the overall design and goals of the website. 
-
-
-## 🔗 Links
-
-For any questions or inquiries, please feel free to reach out. 
-
-NK :
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-nisha-p/)
-
-
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nishap24)
-
-[![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_nisha_2407_)
-
-
-Thank you for visiting the page!
